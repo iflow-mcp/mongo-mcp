@@ -1,11 +1,11 @@
 {
-  "name": "@coderay/mongodb-mcp-server",
+  "name": "@iflow-mcp/mongo-mcp",
   "version": "1.0.2",
   "description": "High-performance MongoDB Model Context Protocol (MCP) server optimized for LLMs - enables AI agents to safely and efficiently query and manipulate MongoDB data with type safety, schema validation, and controlled access patterns",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "mongodb-mcp": "dist/index.js"
+    "mongo-mcp": "dist/index.js"
   },
   "files": [
     "dist"
